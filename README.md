@@ -1,4 +1,4 @@
-<img src="./rela.png" width="400px"></img>
+<img src="./rela.png" width="800px"></img>
 
 ## ReLA (Rectified Linear Attention) Transformer
 
